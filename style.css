@@ -74,7 +74,7 @@ transition: transform 300ms ease-in-out;
     box-sizing: border-box;
 }
 
-.cartao_coteudo_resposta{
+.cartao_conteudo_resposta{
     transform: rotateY(180deg);
 }
 
