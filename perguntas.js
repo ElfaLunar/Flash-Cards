@@ -6,12 +6,12 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual é a capital do Paraná?',
-    'A capital do Paraná é Curitiba'
+    'Qual é a capital do Japão?',
+    'A capital do Japão é Tóquio'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O é Python é uma linguagem de programação'
+    'Idioma',
+    'Qual o idioma que é o mais conhecido?',
+    'O idioma mais conhecido é o inglês'
 )
